@@ -1,2 +1,2 @@
-# teste-de-velocidade-de-internet-com-python
-> Simples script de teste develocidade de internet usando a biblioteca speedtest.
+# teste-de-velocidade
+> Simples script de teste de velocidade de internet usando a biblioteca speedtest.
