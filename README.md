@@ -1,5 +1,5 @@
 # teste-de-velocidade
-> Simples script de teste de velocidade de internet usando a biblioteca speedtest.
+Simples script de teste de velocidade de internet usando a biblioteca speedtest.
 
 - speedtest.Speedtest() → cria o objeto que é responsável por criar os teste de internet.
 
